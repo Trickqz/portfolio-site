@@ -6,8 +6,8 @@ import { TbBrandReactNative } from "react-icons/tb";
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "@/components/ui/tooltip";
 import { motion } from "framer-motion";
 import { Link } from 'react-scroll';
-import Scrolldw from '/scrolldown.svg'
-import Code from '/code.png';
+import Scrolldw from '../assets/scrolldown.svg'
+import Code from '../assets/code.png';
 
 export default function Intro() {
     return (
